@@ -1,1 +1,12 @@
-# React-Again
+npm install
+
+
+
+
+
+
+
+
+
+
+npm run start
